@@ -3,6 +3,6 @@
 Este programa lleva un registro de tareas por hacer de una persona
 
 ```
-node install
+npm install
 
 ```
